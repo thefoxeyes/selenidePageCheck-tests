@@ -13,7 +13,7 @@ Tried condition "visible".
 
 II.
 Answer on the first question is "No".
-$("h1 div") would look for the first appropriate "h1", containing "div". In the example forward "beta" would be found
+$("h1 div") would look for the first appropriate "h1", containing "div". In the example forward "beta" would be found.  
 $("h1").$("div") would look for the first "h1" and "div" inside. In the example forward nothing would be found
 <div>
   <h1>
